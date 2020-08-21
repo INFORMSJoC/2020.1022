@@ -1,7 +1,25 @@
 [![INFORMS Journal on Computing Logo](https://INFORMSJoC.github.io/logos/INFORMS_Journal_on_Computing_Header.jpg)](https://pubsonline.informs.org/journal/ijoc)
 
 # VBOHCA
+
 Online Supplement -- Spatiotemporal Data Set for Out-of-Hospital Cardiac Arrests (Custodio and Lejeune, 2020)
+
+This project is distributed in association with the [INFORMS Journal on
+Computing](https://pubsonline.informs.org/journal/ijoc) under the [MIT License](LICENSE).
+
+The software and data in this repository are associated with the paper [This is a Template](https://doi.org/10.1287/ijoc.2019.0934) by T. Ralphs. 
+
+## Version
+
+The version used in the paper is
+
+[![Release](https://img.shields.io/github/v/release/INFORMSJoC/Template?sort=semver)](https://github.com/INFORMSJoC/Template/releases)
+
+## Cite
+
+To cite this software, please cite the [paper](https://doi.org/10.1287/ijoc.2019.0934) and the software, using the following DOI.
+
+[![DOI](https://zenodo.org/badge/285853815.svg)](https://zenodo.org/badge/latestdoi/285853815)
 
 ## How to use these files
 The files provided in this repository are the online supplement to the paper *Spatiotemporal Data Set for Out-of-Hospital Cardiac Arrests (Custodio and Lejeune, 2020)*. The files have been generated to cover OHCA incidents recorded by the city of Virginia Beach from January 1, 2017 to June 30, 2019. However, the SAS program provided in this repository can be used to process data for different time periods, depending on the files uploaded to the folder *input*.
@@ -29,25 +47,6 @@ The Excel file *results/VBOHCAR.xlsx* contains the final data set of all OHCAs r
 
 ## Data Processing
 The SAS file *scripts/data_consolidation.sas* was used to clean and analyze the raw input data sets and to generate the list of OHCAs and response times, as well as spatial information for each OHCA incident. This file can be used to analyze any time period, depending on the input files uploaded to the folder *input*. Users can use the directory *C://2020-02-OA-046* to save the folders *data/input* and *data/auxiliary*. If using a customized directory, users must modify the paths in the SAS source code so that the correct files are referenced.
-
-# CacheTest
-
-This project is distributed in association with the [INFORMS Journal on
-Computing](https://pubsonline.informs.org/journal/ijoc) under the [MIT License](LICENSE).
-
-The software and data in this repository are associated with the paper [This is a Template](https://doi.org/10.1287/ijoc.2019.0934) by T. Ralphs. 
-
-## Version
-
-The version used in the paper is
-
-[![Release](https://img.shields.io/github/v/release/INFORMSJoC/Template?sort=semver)](https://github.com/INFORMSJoC/Template/releases)
-
-## Cite
-
-To cite this software, please cite the [paper](https://doi.org/10.1287/ijoc.2019.0934) and the software, using the following DOI.
-
-[![DOI](https://zenodo.org/badge/285853815.svg)](https://zenodo.org/badge/latestdoi/285853815)
 
 ## Ongoing Development
 
