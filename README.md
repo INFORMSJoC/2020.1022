@@ -51,7 +51,7 @@ The SAS file *scripts/data_consolidation.sas* was used to clean and analyze the 
 ## Ongoing Development
 
 This code is being developed on an on-going basis at the author's
-[Github site](https://github.com/tkralphs/JoCTemplate).
+[Github site](https://github.com/janielecustodio/VBOHCA).
 
 ## Support
 
