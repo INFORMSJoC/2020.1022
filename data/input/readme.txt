@@ -1,0 +1,1 @@
+Users must download three data files, which should be saved as .xslx: EMS_Calls_For_Service, Fire_Calls_For_Service, and Police_Calls_For_Service. These files are processed in the SAS program, which generates the OHCA occurrences for a given time period. All files can be found at https://data.vbgov.com/.
