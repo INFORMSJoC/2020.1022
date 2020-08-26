@@ -1,4 +1,4 @@
-% Copyright (c) 2020, Janiele Eduarda Silva Costa Custodio
+% Copyright © 2020, Janiele Eduarda Silva Costa Custodio
 % You may use, distribute and modify this code under the terms of the MIT license.
 % See the license terms in the file 'LICENSE.txt',  which should
 % have been included with this distribution. A copy of the license is also
