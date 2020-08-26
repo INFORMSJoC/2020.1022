@@ -7,7 +7,7 @@ Online Supplement -- Spatiotemporal Data Set for Out-of-Hospital Cardiac Arrests
 This project is distributed in association with the [INFORMS Journal on
 Computing](https://pubsonline.informs.org/journal/ijoc) under the [MIT License](LICENSE).
 
-The software and data in this repository are associated with the paper **[This is a Template](https://doi.org/10.1287/ijoc.2019.0934) by J. Custodio and M. Lejeune.**
+The software and data in this repository are associated with the paper **[Spatiotemporal Data Set for Out-of-Hospital Cardiac Arrests](https://doi.org/10.1287/ijoc.2019.0934) by J. Custodio and M. Lejeune.**
 
 ## Version
 
