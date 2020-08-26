@@ -34,7 +34,7 @@ Stores input data files, obtained from the [Open VB data portal](https://data.vb
 Contains a random sample generated using the MATLAB code available with this package.
 
 ### results/Shortest Paths
-The folder [Shapefiles](results/Shortest Paths/Shapefiles) shapefiles used to calculate the shortest paths using the road distances for the sample in the folder *Random Sample*. Input files were obtained from the [VB Open GIS portal](https://gis.data.vbgov.com/) and [US Census Bureau](https://data.gov/organization/census-gov/). The QGIS Project file *VBOHCA_Sample1* contains the map used in the analysis.
+The folder [shapefiles](results/shortest_paths/shapefiles) shapefiles used to calculate the shortest paths using the road distances for the sample in the folder *Random Sample*. Input files were obtained from the [VB Open GIS portal](https://gis.data.vbgov.com/) and [US Census Bureau](https://data.gov/organization/census-gov/). The QGIS Project file *VBOHCA_Sample1* contains the map used in the analysis.
 
 ## Random Sample Generation
 The MATLAB file [test_cases.m](scripts/test_cases.m) can be used to generate random instances from the VBOHCAR data set as it is. If users choose to consider a different time period, the VBOHCAR Excel file must be adjusted so that the sheet *Distances* includes all OHCA occurrences and links to the road distances. Additionally, if a different time period is used, users must also adjust the MATLAB source code so that no errors occur when reading the data sets.
