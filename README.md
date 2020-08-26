@@ -46,7 +46,7 @@ The Excel file *results/VBOHCAR.xlsx* contains the final data set of all OHCAs r
 - Distances: contains both the Haversine and the road distances for each OHCA-Base station pair.
 
 ## Data Processing
-The SAS file *scripts/data_consolidation.sas* was used to clean and analyze the raw input data sets and to generate the list of OHCAs and response times, as well as spatial information for each OHCA incident. This file can be used to analyze any time period, depending on the input files uploaded to the folder *input*. Users can use the directory *C://2020-02-OA-046* to save the folders *data/input* and *data/auxiliary*. If using a customized directory, users must modify the paths in the SAS source code so that the correct files are referenced.
+The SAS file [data_consolidation.sas](scripts/data_consolidation.sas)*scripts/data_consolidation.sas* was used to clean and analyze the raw input data sets and to generate the list of OHCAs and response times, as well as spatial information for each OHCA incident. This file can be used to analyze any time period, depending on the input files uploaded to the folder *input*. Users can use the directory *C://2020-02-OA-046* to save the folders *data/input* and *data/auxiliary*. If using a customized directory, users must modify the paths in the SAS source code so that the correct files are referenced.
 
 ## Ongoing Development
 
