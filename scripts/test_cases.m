@@ -1,7 +1,8 @@
-% ©2020 Janiele Eduarda Silva Costa Custodio. See the license terms in the file 'LICENSE.txt' which should
+% Copyright (c) 2020, Janiele Eduarda Silva Costa Custodio
+% You may use, distribute and modify this code under the terms of the MIT license.
+% See the license terms in the file 'LICENSE.txt',  which should
 % have been included with this distribution. A copy of the license is also
 % available at <https://github.com/janielecustodio/2020-02-OA-046/blob/master/LICENSE>.
-
 
 %% OHCA spatial data
 OHCAs =  table2array(readtable('VBOHCAR.xlsx',...
