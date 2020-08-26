@@ -17,7 +17,7 @@ The version used in the paper is
 
 ## Cite
 
-To cite this software, please cite the [paper](https://doi.org/10.1287/ijoc.2019.0934) and the software, using the following DOI.
+**To cite this software, please cite the [paper](https://doi.org/10.1287/ijoc.2019.0934) and the software, using the following DOI.**
 
 [![DOI](https://zenodo.org/badge/285853815.svg)](https://zenodo.org/badge/latestdoi/285853815)
 
@@ -28,7 +28,7 @@ The files provided in this repository are the online supplement to the paper *Sp
 ### data/auxiliary
 Stores auxiliary SAS data files.
 ### data/input
-Stores input data files, obtained from the [Open VB data portal](https://data.vbgov.com/). Users must upload three data files, which should be saved as .xslx: *EMS_Calls_For_Service*, *Fire_Calls_For_Service*, and *Police_Calls_For_Service*. This repository includes a sample version of [EMS_Calls_For_Service]( 2020-02-OA-046/data/input/EMS_Calls_For_Service.xlsx) obtained through a FOIA request. It also contains a version of the [Fire_Calls_For_Service](2020-02-OA-046/data/input/Fire_Calls_For_Service.xlsx) and the [Police_Calls_For_Service](2020-02-OA-046/data/input/Police_Calls_For_Service.xlsx) data set, which were downloaded from the [Open VB data portal](https://data.vbgov.com/). All files cover the period from January 1, 2017 until June 30, 2019. These files are processed using the SAS program, which generates the OHCA occurrences for a given time period. Details of the analysis can be found in the associated paper (Custodio and Lejeune, 2020).
+Stores input data files, obtained from the [Open VB data portal](https://data.vbgov.com/). Users must upload three data files, which should be saved as .xslx: *EMS_Calls_For_Service*, *Fire_Calls_For_Service*, and *Police_Calls_For_Service*. This repository includes a sample version of [EMS_Calls_For_Service]( 2020-02-OA-046/data/input/EMS_Calls_For_Service.xlsx) obtained through a FOIA request. It also contains a version of the [Fire_Calls_For_Service](2020-02-OA-046/data/input/Fire_Calls_For_Service.xlsx) and the [Police_Calls_For_Service](2020-02-OA-046/data/input/Police_Calls_For_Service.xlsx) data sets, which were downloaded from the [Open VB data portal](https://data.vbgov.com/). All files cover the period from January 1, 2017 until June 30, 2019. These files are processed using the SAS program, which generates the OHCA occurrences for a given time period. Details of the analysis can be found in the associated paper (Custodio and Lejeune, 2020).
 
 ### results/Random Sample
 Contains a random sample generated using the MATLAB code available with this package.
@@ -40,7 +40,7 @@ The folder [shapefiles](results/shortest_paths/shapefiles) contains the shapefil
 The MATLAB file [test_cases.m](scripts/test_cases.m) can be used to generate random instances from the VBOHCAR data set as it is. If users choose to consider a different time period, the file [VBOHCAR](results/VBOHCAR.xlsx) must be adjusted so that the sheet *Distances* includes all OHCA occurrences and links to the road distances. Additionally, if a different time period is used, users must also adjust the MATLAB source code so that no errors occur when reading the data sets.
 
 ## Virginia Beach OHCA Dispatch Data Set (VBOHCAR)
-The Excel file [VBOHCAR](results/VBOHCAR.xlsx) contains the final data set of all OHCAs registered in the city of Virginia Beach from January 1, 2017, until June 30, 2019. 
+The Excel file [VBOHCAR](results/VBOHCAR.xlsx) contains the final data set of all OHCAs registered in the city of Virginia Beach from January 1, 2017, until June 30, 2019. The file contains three sheets:
 - OHCAs: contains the spatiotemporal information about all dispatches made by either the EMS, Fire or Police department for the city of Virginia Beach that were initially classified as an OHCA.
 - Base_Stations: contains the spatial information for all the first-responder stations in the city of Virginia Beach.
 - Distances: contains both the Haversine and the road distances for each OHCA-Base station pair.
@@ -55,5 +55,5 @@ This code is being developed on an on-going basis at the author's
 
 ## Support
 
-For support in using this software, submit an
-[issue](https://github.com/tkralphs/JoCTemplate/issues/new).
+**For support in using this software, submit an
+[issue](https://github.com/tkralphs/JoCTemplate/issues/new).**
