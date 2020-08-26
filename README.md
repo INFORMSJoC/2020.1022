@@ -30,10 +30,10 @@ Stores auxiliary SAS data files.
 ### data/input
 Stores input data files, obtained from the [Open VB data portal](https://data.vbgov.com/). Users must upload three data files, which should be saved as .xslx: *EMS_Calls_For_Service*, *Fire_Calls_For_Service*, and *Police_Calls_For_Service*. This repository includes a sample version of [EMS_Calls_For_Service]( 2020-02-OA-046/data/input/EMS_Calls_For_Service.xlsx) obtained through a FOIA request. It also contains a version of the [Fire_Calls_For_Service](2020-02-OA-046/data/input/Fire_Calls_For_Service.xlsx) and the [Police_Calls_For_Service](2020-02-OA-046/data/input/Police_Calls_For_Service.xlsx) data sets, which were downloaded from the [Open VB data portal](https://data.vbgov.com/). All files cover the period from January 1, 2017 until June 30, 2019. These files are processed using the SAS program, which generates the OHCA occurrences for a given time period. Details of the analysis can be found in the associated paper (Custodio and Lejeune, 2020).
 
-### results/Random Sample
+### results/random_sample
 Contains a random sample generated using the MATLAB code available with this package.
 
-### results/Shortest Paths
+### results/shortest_paths
 The folder [shapefiles](results/shortest_paths/shapefiles) contains the shapefiles used to calculate shortest paths using the road distances for the sample in the folder [random_sample](results/random_sample). Input files were obtained from the [VB Open GIS portal](https://gis.data.vbgov.com/) and [US Census Bureau](https://data.gov/organization/census-gov/). The QGIS Project file [VBOHCA_Sample1](results/shortest_paths/VBOHCA_sample1.qgz) contains the map used in the analysis.
 
 ## Random Sample Generation
