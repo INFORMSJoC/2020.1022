@@ -55,5 +55,5 @@ This code is being developed on an on-going basis at the author's
 
 ## Support
 
-**For support in using this software, submit an
-[issue](https://github.com/tkralphs/JoCTemplate/issues/new).**
+For support in using this software, submit an
+[issue](https://github.com/janielecustodio/2020-02-OA-046/issues).
