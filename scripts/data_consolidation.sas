@@ -1,9 +1,12 @@
-/*©2020 Janiele Eduarda Silva Costa Custodio. See the license terms in the file 'LICENSE.txt' which should
+/* 
+Copyright © 2020, Janiele Eduarda Silva Costa Custodio
+You may use, distribute and modify this code under the terms of the MIT license.
+See the license terms in the file 'LICENSE.txt',  which should
 have been included with this distribution. A copy of the license is also
 available at <https://github.com/janielecustodio/2020-02-OA-046/blob/master/LICENSE>.
-*/
-
-/*The directories assumes that the repository "2020-02-OA-046" is saved under "C:\". Please edit the paths if using an alternate directory*/
+ */
+ 
+/*The script assumes that the repository "2020-02-OA-046" is saved under "C:\". Please edit the paths if using an alternate directory*/
 
 /* Creates library to store auxiliary data sets */
 libname mydata 'C:\2020-02-OA-046\auxiliary';
