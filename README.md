@@ -7,21 +7,14 @@ Online Supplement -- Spatiotemporal Data Set for Out-of-Hospital Cardiac Arrests
 This project is distributed in association with the [INFORMS Journal on
 Computing](https://pubsonline.informs.org/journal/ijoc) under the [MIT License](LICENSE).
 
-The software and data in this repository are associated with the paper **[Spatiotemporal Data Set for Out-of-Hospital Cardiac Arrests](https://doi.org/10.1287/ijoc.2019.0934) by J. Custodio and M. Lejeune.**
+The software and data in this repository are a snapshot from the [development repository](https://github.com/janielecustodio/VBOHCA)
+of the version used to obtain the results in the paper Spatiotemporal Data Set for Out-of-Hospital Cardiac Arrests (to appear) by J. Custodio and M. Lejeune.
 
 **Important: This code is being developed on an on-going basis at https://github.com/janielecustodio/VBOHCA. Please go there if you would like to get a more recent version or would like support.**
 
-## Version
-
-The version used in the paper is
-
-[![Release](https://img.shields.io/github/v/release/INFORMSJoC/Template?sort=semver)](https://github.com/janielecustodio/2020-02-OA-046/releases)
-
 ## Cite
 
-**To cite this software, please cite the [paper](https://doi.org/10.1287/ijoc.2019.0934) and the software, using the following DOI.**
-
-[![DOI](https://zenodo.org/badge/285853815.svg)](https://zenodo.org/badge/latestdoi/285853815)
+To cite this software, please cite the paper using its DOI and the software itself, using its DOI.
 
 ## How to use these files
 The files provided in this repository are the online supplement to the paper *Spatiotemporal Data Set for Out-of-Hospital Cardiac Arrests (Custodio and Lejeune, 2020)*. The files have been generated to cover OHCA incidents recorded by the city of Virginia Beach from January 1, 2017 to June 30, 2019. However, the SAS program provided in this repository can be used to process data for different time periods, depending on the files uploaded to the folder [input](data/input).
