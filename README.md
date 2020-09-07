@@ -8,7 +8,7 @@ This archive is distributed in association with the [INFORMS Journal on
 Computing](https://pubsonline.informs.org/journal/ijoc) under the [MIT License](LICENSE).
 
 The software and data in this repository are a snapshot from the [development repository](https://github.com/janielecustodio/VBOHCA)
-of the version used to obtain the results in the paper Spatiotemporal Data Set for Out-of-Hospital Cardiac Arrests (to appear) by J. Custodio and M. Lejeune.
+of the version used to obtain the results in the paper "Spatiotemporal Data Set for Out-of-Hospital Cardiac Arrests" (to appear) by J. Custodio and M. Lejeune.
 
 **Important: This code is being developed on an on-going basis at https://github.com/janielecustodio/VBOHCA. Please go there if you would like to get a more recent version or would like support.**
 
