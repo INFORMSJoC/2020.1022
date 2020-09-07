@@ -4,7 +4,7 @@
 
 Online Supplement -- Spatiotemporal Data Set for Out-of-Hospital Cardiac Arrests (Custodio and Lejeune, 2020)
 
-This project is distributed in association with the [INFORMS Journal on
+This archive is distributed in association with the [INFORMS Journal on
 Computing](https://pubsonline.informs.org/journal/ijoc) under the [MIT License](LICENSE).
 
 The software and data in this repository are a snapshot from the [development repository](https://github.com/janielecustodio/VBOHCA)
