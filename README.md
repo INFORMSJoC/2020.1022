@@ -18,6 +18,19 @@ To cite this software, please cite the paper using its DOI and the software itse
 
 [![DOI](https://zenodo.org/badge/288628515.svg)](https://zenodo.org/badge/latestdoi/288628515)
 
+Below is the BibTex for citing this version of the code.
+
+```
+@article{VBOHCA,
+  author =        {J. Custodio and M. Lejeune},
+  publisher =     {INFORMS Journal on Computing},
+  title =         {{VBOHCA} Version v2020.1022},
+  year =          {2020},
+  doi =           { 10.5281/zenodo.4017770  },
+  url =           {https://github.com/INFORMSJoC/2020.1022},
+}  
+```
+
 ## How to use these files
 The files provided in this repository are the online supplement to the paper *Spatiotemporal Data Set for Out-of-Hospital Cardiac Arrests (Custodio and Lejeune, 2020)*. The files have been generated to cover OHCA incidents recorded by the city of Virginia Beach from January 1, 2017 to June 30, 2019. However, the SAS program provided in this repository can be used to process data for different time periods, depending on the files uploaded to the folder [input](data/input).
 
