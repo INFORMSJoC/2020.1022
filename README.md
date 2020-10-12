@@ -15,7 +15,7 @@ The software and data in this repository are associated with the paper **[Spatio
 
 The version used in the paper is
 
-[![Release](https://img.shields.io/github/v/release/INFORMSJoC/Template?sort=semver)](https://github.com/janielecustodio/2020-02-OA-046/releases)
+[![Release](https://img.shields.io/github/v/release/INFORMSJoC/2020.1022?sort=semver)](https://github.com/INFORMSJoC/2020.1022/releases)
 
 ## Cite
 
