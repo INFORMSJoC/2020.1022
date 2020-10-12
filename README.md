@@ -21,7 +21,7 @@ The version used in the paper is
 
 **To cite this software, please cite the [paper](https://doi.org/10.1287/ijoc.2020.1022) and the software, using the following DOI.**
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4017770.svg)](http://dx.doi.org/10.5281/zenodo.4017770)
+[![DOI](https://zenodo.org/badge/288628515.svg)](https://zenodo.org/badge/latestdoi/288628515)
 
 Below is the BibTex for citing this version of the code.
 
@@ -31,7 +31,7 @@ Below is the BibTex for citing this version of the code.
   publisher =     {INFORMS Journal on Computing},
   title =         {{VBOHCA} Version v2020.1022},
   year =          {2020},
-  doi =           { 10.5281/zenodo.4017770  },
+  doi =           {10.5281/zenodo.4079985},
   url =           {https://github.com/INFORMSJoC/2020.1022},
 }  
 ```
