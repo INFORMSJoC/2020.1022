@@ -2,24 +2,16 @@
 
 # VBOHCA
 
-Online Supplement -- Spatiotemporal Data Set for Out-of-Hospital Cardiac Arrests (Custodio and Lejeune, 2020)
-
-This project is distributed in association with the [INFORMS Journal on
+This archive is distributed in association with the [INFORMS Journal on
 Computing](https://pubsonline.informs.org/journal/ijoc) under the [MIT License](LICENSE).
 
-The software and data in this repository are associated with the paper **[Spatiotemporal Data Set for Out-of-Hospital Cardiac Arrests](https://doi.org/10.1287/ijoc.2019.0934) by J. Custodio and M. Lejeune.**
+The software and data in this repository are a snapshot of the software and data that were used in the research reported on in the paper [Spatiotemporal Data Set for Out-of-Hospital Cardiac Arrests](https://doi.org/10.1287/ijoc.2019.0934) by J. Custodio and M. Lejeune.
 
 **Important: This code is being developed on an on-going basis at https://github.com/janielecustodio/VBOHCA. Please go there if you would like to get a more recent version or would like support.**
 
-## Version
-
-The version used in the paper is
-
-[![Release](https://img.shields.io/github/v/release/INFORMSJoC/2020.1022?sort=semver)](https://github.com/INFORMSJoC/2020.1022/releases)
-
 ## Cite
 
-**To cite this software, please cite the [paper](https://doi.org/10.1287/ijoc.2020.1022) and the software, using the following DOI.**
+To cite this software, please cite the [paper](https://doi.org/10.1287/ijoc.2020.1022) and the software, using the following DOI.
 
 [![DOI](https://zenodo.org/badge/288628515.svg)](https://zenodo.org/badge/latestdoi/288628515)
 
