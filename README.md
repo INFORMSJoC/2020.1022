@@ -11,9 +11,7 @@ The software and data in this repository are a snapshot of the software and data
 
 ## Cite
 
-To cite this software, please cite the [paper](https://doi.org/10.1287/ijoc.2020.1022) and the software, using the following DOI.
-
-[![DOI](https://zenodo.org/badge/288628515.svg)](https://zenodo.org/badge/latestdoi/288628515)
+To cite this software, please cite the [paper](https://doi.org/10.1287/ijoc.2020.1022) and the software, using the following DOI: [https://doi.org/10.1287/ijoc.2020.1022.cd](https://doi.org/10.1287/ijoc.2020.1022.cd)
 
 Below is the BibTex for citing this version of the code.
 
